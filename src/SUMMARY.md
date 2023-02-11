@@ -39,7 +39,6 @@
 - [Chapter 3: Classy Objects](./objects-classes/ch3.md)
 - [Chapter 4: This Works](./objects-classes/ch4.md)
 - [Chapter 5: Delegation](./objects-classes/ch5.md)
-- [TODO]
 
 
 # Types & Grammar
@@ -51,4 +50,3 @@
 - [Chapter 2: Primitive Behaviors](./types-grammar/ch2.md)
 - [Chapter 3: Object Values](./types-grammar/ch3.md)
 - [Chapter 4: Coercing Values](./types-grammar/ch4.md)
-- [TODO]
